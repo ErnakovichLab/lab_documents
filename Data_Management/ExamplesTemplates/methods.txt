@@ -1,0 +1,23 @@
+# Experiment Name
+## Information about you
+Name
+Email
+Date
+
+## Field collection
+ - where were samples collected?
+ - what was the experimental setup?
+ - what other data will be or are associated with these samples and who is the contact person for this data?
+ - How were the samples stored prior to library preparation?
+
+## Library preparation
+ - how were nucleic acids extracted?
+ - amplicon or metagenomic
+ - DNA or RNA
+ - primers used if amplicon
+ - library preparation methods
+ 
+## Sequencing
+ - what kind of sequencer was used (e.g. NovaSeq 6000)
+ - what kind of chemistry was used (e. g. 2 x 150)
+ - What sequencing facility did the sequencing (usually Hubbard Center)
